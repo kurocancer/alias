@@ -44,5 +44,4 @@ By capturing micro-vibrations and touch variations, we differentiate between an 
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YourUsername/saila_demo.git](https://github.com/YourUsername/saila_demo.git)
+  
